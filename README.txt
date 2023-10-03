@@ -20,7 +20,7 @@ Možnosť navigácie k Farme alebo jednotlivoci
 Recenzia Farmy/jednotlivca
 Správa inzeratov, recenzii a profilov adminom
 Vytvorenie záznamu farmy adminom.
-Autonetifikácia za použitia 3. strán
+Autentifikácia za použitia 3. strán
 Rezervácia produktu na určitý čas 
 Skrytie/ vymazanie inzerátu jednotlivcom/farmou
 
